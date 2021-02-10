@@ -183,29 +183,17 @@ body {
 
     
 }
-#contact .information h1 {
-    
-    
-}
-#contact .information .contact-p {
-    
-}
-#contact .information .form {
-    
-}
+
 #contact .information .form label {
     display: block;
     margin-top:15px;
-    font-size:16px;
-
-    
+    font-size:16px;  
 }
 #contact .information .form input {
     width:95%;
     height:30px;
     line-height:30px;
     border:0;
-    
 }
 #contact .information .form textarea {
     width:95%;
@@ -239,36 +227,3 @@ footer {
    line-height: 50px; height:50px;
 }
 /* End Footer */ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
